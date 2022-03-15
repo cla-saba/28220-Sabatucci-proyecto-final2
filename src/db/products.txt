@@ -1,0 +1,11 @@
+[
+  {
+    "nombre": "Producto 2",
+    "descripcion": "Este es de prueba 2",
+    "foto": "http://img.com/2",
+    "precio": 1.23,
+    "stock": 22,
+    "id": 1,
+    "timestamp": 1647291747608
+  }
+]
